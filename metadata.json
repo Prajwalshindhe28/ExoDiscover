@@ -1,0 +1,5 @@
+{
+  "name": " ExoDiscover AI Platform",
+  "description": "An interactive web platform for the NASA Space App Challenge that uses mock AI/ML to identify, analyze, and visualize exoplanet data. Includes an exoplanet quiz and a memory game.",
+  "requestFramePermissions": []
+}
